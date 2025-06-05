@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Profile Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseef2005&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseef2005&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseef2005&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Haseef2005&theme=tokyonight)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Haseef2005&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
